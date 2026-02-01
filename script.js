@@ -21,10 +21,13 @@ yesBtn.addEventListener("click", () => {
   });
 
   card.innerHTML = `
-    <h1>YAY!!! 💖</h1>
-    <img
-      src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
-      width="250"
-    />
-  `;
+  <h1>YAY!!! 💖</h1>
+
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV6ZGhjempvcDI2bnhhcm1oMzN2Y2RhamxmZXZuemo0d3F5N20zdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gRD25J7DvvTQQ/giphy.gif"
+    width="250"
+  />
+
+  <p class="tease"> More on 7th Feb 😈</p>
+`;
 });
